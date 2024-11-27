@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/porimap/static/css/main.d156b302.css",
+    "main.js": "/porimap/static/js/main.9452eb0f.js",
+    "static/js/453.136621b1.chunk.js": "/porimap/static/js/453.136621b1.chunk.js",
+    "static/media/logo.png": "/porimap/static/media/logo.3070bfe745038cfe4d64.png",
+    "index.html": "/porimap/index.html",
+    "main.d156b302.css.map": "/porimap/static/css/main.d156b302.css.map",
+    "main.9452eb0f.js.map": "/porimap/static/js/main.9452eb0f.js.map",
+    "453.136621b1.chunk.js.map": "/porimap/static/js/453.136621b1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d156b302.css",
+    "static/js/main.9452eb0f.js"
+  ]
+}
