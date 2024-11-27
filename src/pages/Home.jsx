@@ -4,10 +4,10 @@ import Main from "../layouts/Main";
 import Footer from "../layouts/Footer";
 export default function Home() {
   return (
-    <div>
+    <div className="min-h-dvh flex flex-col">
       <Header />
       <Main />
-      <Footer />
+      <Footer/>
     </div>
   );
 }

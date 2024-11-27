@@ -125,16 +125,16 @@ export default function Main() {
           </table>
         </div>
       </section>
-      <section class="land-links-section flex justify-center items-center flex-col pb-10">
-        <h2 class="text-center text-lg md:text-xl font-bold mb-4">
+      <section className="land-links-section flex justify-center items-center flex-col pb-10">
+        <h2 className="text-center text-lg md:text-xl font-bold mb-4">
           বাংলাদেশের ভূমি বিষয়ক গুরুত্বপূর্ণ লিংক
         </h2>
-        <ul class="flex gap-x-4 gap-y-2 px-10 flex-wrap justify-center ">
+        <ul className="flex gap-x-4 gap-y-2 px-10 flex-wrap justify-center ">
           <li>
             <a
               href="https://www.land.gov.bd/"
               target="_blank"
-              class="text-blue-500 hover:underline"
+              className="text-blue-500 hover:underline"
             >
               ভূমি মন্ত্রণালয়
             </a>
@@ -143,7 +143,7 @@ export default function Main() {
             <a
               href="https://mutation.land.gov.bd/"
               target="_blank"
-              class="text-blue-500 hover:underline"
+              className="text-blue-500 hover:underline"
             >
               নামজারি (Mutation)
             </a>
@@ -152,7 +152,7 @@ export default function Main() {
             <a
               href="https://map.land.gov.bd/"
               target="_blank"
-              class="text-blue-500 hover:underline"
+              className="text-blue-500 hover:underline"
             >
               ভূমি ম্যাপ (Land Map)
             </a>
@@ -161,7 +161,7 @@ export default function Main() {
             <a
               href="https://eporcha.gov.bd/"
               target="_blank"
-              class="text-blue-500 hover:underline"
+              className="text-blue-500 hover:underline"
             >
               ই-পর্চা
             </a>
