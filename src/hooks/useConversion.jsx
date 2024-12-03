@@ -7,7 +7,7 @@ const useConversion = () => {
   });
 
   const [types, setTypes] = useState({ from: "", to: "" });
-  
+
   const baseValues = useRef({
     base: 1,
     shotok: 435.6,
