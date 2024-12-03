@@ -6,7 +6,7 @@ export default function Main() {
     useConversion();
 
   return (
-    <main className="bg-gray-50">
+    <main className="bg-gray-50 grow">
       <section className=" flex flex-col justify-center  lg:flex-row gap-5 px-6 md:px-10 py-8 md:py-10 mx-auto">
         {/* Input Section */}
         <div className="flex-grow-2 bg-white p-6 rounded-lg shadow-sm">
