@@ -48,9 +48,9 @@ export default function Footer() {
       </section>
       <section>
         <p className="text-gray-700 text-sm" style={{ wordSpacing: "0.1em" }}>
-          &copy; ২০২৪ স্বত্তাধিকারী -{" "}
+          &copy; {new Date().getFullYear()} স্বত্তাধিকারী -{" "}
           <a
-            href="https://ihsakib.pegasustravelers.com/"
+            href="https://ihsakib.me/"
             target="_blank"
             rel="noreferrer"
             className="hover:underline"
